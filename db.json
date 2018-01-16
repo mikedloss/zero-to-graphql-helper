@@ -1,0 +1,526 @@
+{
+  "people": [{
+      "id": 1,
+      "first_name": "Keshawn",
+      "last_name": "Emard",
+      "username": "Tanya_Jenkins",
+      "email": "Cecil_Kirlin@yahoo.com",
+      "friends": [
+        "/people/33",
+        "/people/24",
+        "/people/40",
+        "/people/39"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Osbaldo",
+      "last_name": "Bechtelar",
+      "username": "Catharine32",
+      "email": "Daniella_Reichert@yahoo.com",
+      "friends": [
+        "/people/14",
+        "/people/24",
+        "/people/10"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Rhoda",
+      "last_name": "Glover",
+      "username": "Clinton53",
+      "email": "Kurt28@hotmail.com",
+      "friends": [
+
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Rosalyn",
+      "last_name": "Kuhn",
+      "username": "Zander89",
+      "email": "Orlando_Botsford2@gmail.com",
+      "friends": [
+        "/people/10",
+        "/people/14",
+        "/people/33",
+        "/people/5",
+        "/people/24",
+        "/people/23",
+        "/people/22",
+        "/people/35"
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Mazie",
+      "last_name": "Kris",
+      "username": "Edythe_Gutkowski51",
+      "email": "Brent.OReilly49@gmail.com",
+      "friends": [
+        "/people/30",
+        "/people/29",
+        "/people/41"
+      ]
+    },
+    {
+      "id": 6,
+      "first_name": "Johnpaul",
+      "last_name": "Skiles",
+      "username": "Jayce.Rogahn",
+      "email": "Everette_Hane20@yahoo.com",
+      "friends": [
+        "/people/13",
+        "/people/3"
+      ]
+    },
+    {
+      "id": 7,
+      "first_name": "Travon",
+      "last_name": "Oberbrunner",
+      "username": "Alyson.Ziemann",
+      "email": "Karelle89@gmail.com",
+      "friends": [
+        "/people/41",
+        "/people/38",
+        "/people/29",
+        "/people/24",
+        "/people/10",
+        "/people/37",
+        "/people/13",
+        "/people/3"
+      ]
+    },
+    {
+      "id": 8,
+      "first_name": "Anais",
+      "last_name": "Crooks",
+      "username": "Kale_Marquardt",
+      "email": "Florian_Krajcik78@gmail.com",
+      "friends": [
+        "/people/30",
+        "/people/25",
+        "/people/28",
+        "/people/36",
+        "/people/29",
+        "/people/37"
+      ]
+    },
+    {
+      "id": 9,
+      "first_name": "Fae",
+      "last_name": "Jacobson",
+      "username": "Bettie.Schimmel41",
+      "email": "Lowell.Toy89@gmail.com",
+      "friends": [
+        "/people/34",
+        "/people/23",
+        "/people/40"
+      ]
+    },
+    {
+      "id": 10,
+      "first_name": "Daisha",
+      "last_name": "Von",
+      "username": "Kacie.Runolfsdottir8",
+      "email": "Brian.Paucek@gmail.com",
+      "friends": [
+        "/people/27",
+        "/people/17",
+        "/people/34"
+      ]
+    },
+    {
+      "id": 11,
+      "first_name": "Chandler",
+      "last_name": "Kirlin",
+      "username": "Terrell26",
+      "email": "Elizabeth74@gmail.com",
+      "friends": [
+        "/people/23"
+      ]
+    },
+    {
+      "id": 12,
+      "first_name": "Wilford",
+      "last_name": "Feil",
+      "username": "Royal_Renner",
+      "email": "Cesar_Koch@yahoo.com",
+      "friends": [
+        "/people/33",
+        "/people/5",
+        "/people/36",
+        "/people/14",
+        "/people/33",
+        "/people/32",
+        "/people/40",
+        "/people/25"
+      ]
+    },
+    {
+      "id": 13,
+      "first_name": "Terrill",
+      "last_name": "Reichert",
+      "username": "Morton_Kemmer",
+      "email": "Elliot.Rutherford18@hotmail.com",
+      "friends": [
+        "/people/5",
+        "/people/27",
+        "/people/27"
+      ]
+    },
+    {
+      "id": 14,
+      "first_name": "Leann",
+      "last_name": "Block",
+      "username": "Tito81",
+      "email": "Reginald45@gmail.com",
+      "friends": [
+        "/people/13",
+        "/people/4"
+      ]
+    },
+    {
+      "id": 15,
+      "first_name": "Adrian",
+      "last_name": "Braun",
+      "username": "Justyn.Hammes",
+      "email": "Jaquan.Lesch9@gmail.com",
+      "friends": [
+        "/people/5",
+        "/people/32",
+        "/people/37",
+        "/people/28"
+      ]
+    },
+    {
+      "id": 16,
+      "first_name": "Mireille",
+      "last_name": "Runte",
+      "username": "Pietro84",
+      "email": "Dean.Huel50@yahoo.com",
+      "friends": [
+        "/people/40",
+        "/people/10",
+        "/people/40",
+        "/people/29",
+        "/people/27"
+      ]
+    },
+    {
+      "id": 17,
+      "first_name": "Alexandrea",
+      "last_name": "Cormier",
+      "username": "Kiera35",
+      "email": "Zane_Gerlach@gmail.com",
+      "friends": [
+        "/people/40",
+        "/people/19",
+        "/people/26",
+        "/people/10"
+      ]
+    },
+    {
+      "id": 18,
+      "first_name": "Mariam",
+      "last_name": "Frami",
+      "username": "Dino.Lindgren51",
+      "email": "Kaylee_Gleason92@gmail.com",
+      "friends": [
+        "/people/6",
+        "/people/20",
+        "/people/30",
+        "/people/36",
+        "/people/11",
+        "/people/2"
+      ]
+    },
+    {
+      "id": 19,
+      "first_name": "Lynn",
+      "last_name": "Bogan",
+      "username": "Keyon_Keebler",
+      "email": "Shania.Schuster@gmail.com",
+      "friends": [
+        "/people/8",
+        "/people/5",
+        "/people/36",
+        "/people/21",
+        "/people/30",
+        "/people/28"
+      ]
+    },
+    {
+      "id": 20,
+      "first_name": "Annetta",
+      "last_name": "Auer",
+      "username": "Marilou_Weber0",
+      "email": "Sven_Wehner@gmail.com",
+      "friends": [
+        "/people/14",
+        "/people/28"
+      ]
+    },
+    {
+      "id": 21,
+      "first_name": "Desiree",
+      "last_name": "Ruecker",
+      "username": "Lionel55",
+      "email": "Kris.Pouros40@yahoo.com",
+      "friends": [
+        "/people/20",
+        "/people/23",
+        "/people/23",
+        "/people/12",
+        "/people/38"
+      ]
+    },
+    {
+      "id": 22,
+      "first_name": "Guiseppe",
+      "last_name": "Lockman",
+      "username": "Tamia.Denesik25",
+      "email": "Hiram21@yahoo.com",
+      "friends": [
+        "/people/23"
+      ]
+    },
+    {
+      "id": 23,
+      "first_name": "Don",
+      "last_name": "Stanton",
+      "username": "Petra.Abernathy",
+      "email": "Izaiah.Smitham@gmail.com",
+      "friends": [
+        "/people/1",
+        "/people/4",
+        "/people/11"
+      ]
+    },
+    {
+      "id": 24,
+      "first_name": "Doyle",
+      "last_name": "Raynor",
+      "username": "Braulio.Nolan53",
+      "email": "Isadore.Witting67@yahoo.com",
+      "friends": [
+        "/people/37",
+        "/people/39",
+        "/people/32",
+        "/people/23",
+        "/people/42",
+        "/people/11",
+        "/people/25",
+        "/people/29"
+      ]
+    },
+    {
+      "id": 25,
+      "first_name": "Ana",
+      "last_name": "Reilly",
+      "username": "Johanna.King39",
+      "email": "Anastacio.Doyle@hotmail.com",
+      "friends": [
+        "/people/41"
+      ]
+    },
+    {
+      "id": 26,
+      "first_name": "Lauren",
+      "last_name": "Ward",
+      "username": "Trey.Weber80",
+      "email": "Kevin.Cormier@yahoo.com",
+      "friends": [
+        "/people/15",
+        "/people/21"
+      ]
+    },
+    {
+      "id": 27,
+      "first_name": "Catherine",
+      "last_name": "Mueller",
+      "username": "Rosalyn80",
+      "email": "Guiseppe.Waelchi91@yahoo.com",
+      "friends": [
+        "/people/2",
+        "/people/36",
+        "/people/9",
+        "/people/23",
+        "/people/39",
+        "/people/30"
+      ]
+    },
+    {
+      "id": 28,
+      "first_name": "Micah",
+      "last_name": "Blick",
+      "username": "Ahmad_Connelly51",
+      "email": "Rosendo.Kozey14@gmail.com",
+      "friends": [
+        "/people/42",
+        "/people/22"
+      ]
+    },
+    {
+      "id": 29,
+      "first_name": "Elwyn",
+      "last_name": "Lesch",
+      "username": "Damon_Brakus18",
+      "email": "Benton39@hotmail.com",
+      "friends": [
+        "/people/42",
+        "/people/41"
+      ]
+    },
+    {
+      "id": 30,
+      "first_name": "Iliana",
+      "last_name": "Wehner",
+      "username": "Heath_DuBuque",
+      "email": "Beaulah.Koch@gmail.com",
+      "friends": [
+        "/people/37",
+        "/people/41",
+        "/people/18"
+      ]
+    },
+    {
+      "id": 31,
+      "first_name": "Sammie",
+      "last_name": "Bartoletti",
+      "username": "Claudie15",
+      "email": "Josiah24@hotmail.com",
+      "friends": [
+
+      ]
+    },
+    {
+      "id": 32,
+      "first_name": "Buck",
+      "last_name": "Medhurst",
+      "username": "Ashton69",
+      "email": "Kirstin.Stroman@yahoo.com",
+      "friends": [
+        "/people/1"
+      ]
+    },
+    {
+      "id": 33,
+      "first_name": "Cory",
+      "last_name": "Anderson",
+      "username": "Oren60",
+      "email": "Leo36@gmail.com",
+      "friends": [
+        "/people/9",
+        "/people/15",
+        "/people/2"
+      ]
+    },
+    {
+      "id": 34,
+      "first_name": "Elda",
+      "last_name": "Huels",
+      "username": "Lee.Hane",
+      "email": "Royce78@yahoo.com",
+      "friends": [
+        "/people/42"
+      ]
+    },
+    {
+      "id": 35,
+      "first_name": "Wyman",
+      "last_name": "Littel",
+      "username": "Roderick13",
+      "email": "Dariana.Schamberger@yahoo.com",
+      "friends": [
+        "/people/12",
+        "/people/12"
+      ]
+    },
+    {
+      "id": 36,
+      "first_name": "Cassie",
+      "last_name": "Beahan",
+      "username": "Rusty81",
+      "email": "Lesley_Weissnat14@hotmail.com",
+      "friends": [
+
+      ]
+    },
+    {
+      "id": 37,
+      "first_name": "Ralph",
+      "last_name": "Kub",
+      "username": "Tyler_Lowe89",
+      "email": "George_Trantow@gmail.com",
+      "friends": [
+
+      ]
+    },
+    {
+      "id": 38,
+      "first_name": "Carson",
+      "last_name": "Mohr",
+      "username": "Nelle43",
+      "email": "Oran_Kulas@yahoo.com",
+      "friends": [
+
+      ]
+    },
+    {
+      "id": 39,
+      "first_name": "Wilton",
+      "last_name": "Monahan",
+      "username": "Jaunita_Hane",
+      "email": "Estell15@gmail.com",
+      "friends": [
+        "/people/31",
+        "/people/4",
+        "/people/37",
+        "/people/25",
+        "/people/21"
+      ]
+    },
+    {
+      "id": 40,
+      "first_name": "Hester",
+      "last_name": "Bahringer",
+      "username": "Alexandro.Streich",
+      "email": "Arlo.Barrows10@hotmail.com",
+      "friends": [
+        "/people/23",
+        "/people/26",
+        "/people/16",
+        "/people/27",
+        "/people/17"
+      ]
+    },
+    {
+      "id": 41,
+      "first_name": "Rodolfo",
+      "last_name": "Beatty",
+      "username": "Francesco60",
+      "email": "Curt.Nitzsche9@hotmail.com",
+      "friends": [
+        "/people/14"
+      ]
+    },
+    {
+      "id": 42,
+      "first_name": "Ari",
+      "last_name": "Parisian",
+      "username": "Alanna91",
+      "email": "Kasey61@gmail.com",
+      "friends": [
+        "/people/22",
+        "/people/9",
+        "/people/17",
+        "/people/25",
+        "/people/37",
+        "/people/25",
+        "/people/28",
+        "/people/22"
+      ]
+    }
+  ]
+}
